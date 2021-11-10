@@ -1,2 +1,3 @@
 # JCJ
 POSTULACION
+create database JCJARAMILLO;
